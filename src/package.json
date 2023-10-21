@@ -1,0 +1,44 @@
+{
+    "name": "svelte-blueprintjs",
+    "version": "0.1.0",
+    "license": "Apache-2.0",
+    "description": "Svelte implementation of Blueprintjs",
+    "svelte": "./src/index.js",
+    "main": "./src/index.js",
+    "scripts": {
+
+    },
+    "dependencies": {
+        "svelte": "^4.0.0"
+    },
+    "devDependencies": {
+      "svelte": "^4.2.0"
+    },
+    "standard-version": {
+      "skip": {
+        "commit": true,
+        "tag": true
+      }
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/kaiaverkvist/svelte-blueprintjs.git"
+    },
+    "homepage": "https://github.com/kaiaverkvist/svelte-blueprintjs",
+    "bugs": "https://github.com/kaiaverkvist/svelte-blueprintjs/issues",
+    "keywords": [
+      "blueprintjs",
+      "blueprintjs components",
+      "svelte",
+      "component library",
+      "blueprintjs design system"
+    ],
+    "files": [
+      "src",
+      "src/css"
+    ],
+    "contributors": [
+      "Kai Averkvist (https://github.com/kaiaverkvist"
+    ]
+  }
+  

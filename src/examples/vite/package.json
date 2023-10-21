@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "2.4.2",
+    "@blueprintjs/core": "^5.0.0",
+    "@blueprintjs/icons": "^5.0.0",
+    "svelte": "^3.59.2",
+    "vite": "^4.4.3",
+    "svelte-blueprintjs": "file:../../index.js"
+  }
+}
